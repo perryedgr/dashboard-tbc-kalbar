@@ -1,7 +1,6 @@
-/*  DATA & COLORS */
+/* DATA & COLORS */
 let kalbarData = [];
 let yearlyTrend = {};
-let totalScreenings = 8412;
 
 const clusterColors = { HH:'#E63946', LL:'#2ECC71', HL:'#F4D35E', LH:'#48CAE4', noData:'#ADB5BD', 'High-High':'#E63946', 'Low-Low':'#2ECC71', 'High-Low':'#F4D35E', 'Low-High':'#48CAE4', '1':'#E63946', '2':'#2ECC71', '3':'#F4D35E', '4':'#48CAE4', '0':'#ADB5BD' };
 const clusterLabels = { HH:'High-High (hotspot)', LL:'Low-Low', HL:'High-Low', LH:'Low-High', noData:'No data', 'High-High':'High-High (hotspot)', 'Low-Low':'Low-Low', 'High-Low':'High-Low', 'Low-High':'Low-High', '1':'High-High (hotspot)', '2':'Low-Low', '3':'High-Low', '4':'Low-High', '0':'No data / Not Signif.' };
@@ -12,21 +11,32 @@ async function loadTBData(){
     const rawData = await response.json();
     kalbarData = [];
     
+    // Bikin dropdown filter tahun otomatis sesuai isi tb_data.json lu (dari tahun terbesar ke terkecil)
+    const availableYears = Object.keys(rawData).sort((a,b) => b - a);
+    const filterYearElement = document.getElementById('filterYear');
+    if(filterYearElement && availableYears.length > 0) {
+      filterYearElement.innerHTML = availableYears.map(y => `<option value="${y}">${y}</option>`).join('');
+    }
+    
     for (const yearKey in rawData) {
       rawData[yearKey].forEach(item => {
-        let jumlahKasus = parseInt(item.TOTAL_KASUS) || 0;
+        let jumlahKasus = parseInt(item.TOTAL_KASUS) || parseInt(item.cases) || 0;
+        // Ambil data screening (kalo di JSON lu gada kolom ini, otomatis disamain sama jumlah kasus)
+        let totalScreenings = parseInt(item.TOTAL_SCREENING) || parseInt(item.screenings) || jumlahKasus;
+        // Ambil data growth asli
+        let dataGrowth = parseFloat(item.GROWTH) || parseFloat(item.growth) || 0;
         
         kalbarData.push({
           year: parseInt(yearKey),
           name: item.KECAMATAN + ', ' + item.KABUPATEN,
           cases: jumlahKasus,
+          screenings: totalScreenings,
           cluster: "noData", 
-          growth: 0 /* karena masih prototype ini set 0 */
+          growth: dataGrowth
         });
       });
     }
 
-    totalScreenings = kalbarData.reduce((a, b) => a + b.cases, 0) || 8412;
     yearlyTrend = {};
     kalbarData.forEach(d => {
       if(!yearlyTrend[d.year]) yearlyTrend[d.year] = 0;
@@ -40,18 +50,20 @@ async function loadTBData(){
 
 /* SUMMARY CARDS  */
 function renderSummary(data){
+  // Kalkulasi ini 100% ngambil dari data yang lagi difilter (tahun terpilih)
   const cases = data.reduce((a,d)=>a+d.cases,0);
+  const screenings = data.reduce((a,d)=>a+d.screenings,0);
   const hotspots = data.filter(d=>['HH','High-High','1'].includes(d.cluster)).length;
   
   document.getElementById('statTotalCases').textContent = cases.toLocaleString('id-ID');
   document.getElementById('statHotspots').textContent = hotspots;
-  document.getElementById('statScreenings').textContent = totalScreenings.toLocaleString('id-ID');
+  document.getElementById('statScreenings').textContent = screenings.toLocaleString('id-ID');
   
-  const posRate = totalScreenings > 0 ? ((cases/totalScreenings)*100).toFixed(1)+'%' : '0%';
+  const posRate = screenings > 0 ? ((cases/screenings)*100).toFixed(1)+'%' : '0%';
   document.getElementById('statPositiveRate').textContent = posRate;
 }
 
-/*  MAP (GEOJSON LISA)  */
+/* MAP (GEOJSON LISA)  */
 let map;
 let mapLayer = null;
 
@@ -112,7 +124,7 @@ async function loadLISA(year) {
   }
 }
 
-/*  RANKING & TABLE  */
+/* RANKING & TABLE  */
 function renderRanking(data){
   const sorted = [...data].sort((a,b)=>b.cases-a.cases).slice(0,8);
   const wrap = document.getElementById('rankList');
@@ -143,7 +155,7 @@ function renderStatsTable(data){
   `).join('');
 }
 
-/*  CHARTS  */
+/* CHARTS  */
 Chart.defaults.color = '#ADB5BD';
 Chart.defaults.font.family = "'Inter', sans-serif";
 Chart.defaults.font.size = 11;
@@ -181,7 +193,7 @@ function buildCharts(data){
   });
 }
 
-/*  CONTROL FILTERS & TABS  */
+/* CONTROL FILTERS & TABS  */
 async function updateDashboardByYear(year) {
   await loadLISA(year);
   const filteredData = kalbarData.filter(d => d.year == parseInt(year));
@@ -206,6 +218,7 @@ document.querySelectorAll('.nav-tab').forEach(tab=>{
     if(tab.dataset.page==='surveillance' && map){ setTimeout(()=>map.invalidateSize(), 80); }
   });
 });
+
 document.querySelectorAll('.mode-btn').forEach(btn=>{
   btn.addEventListener('click', ()=>{
     document.querySelectorAll('.mode-btn').forEach(b=>b.classList.remove('active'));
@@ -220,12 +233,10 @@ document.querySelectorAll('.mode-btn').forEach(btn=>{
   });
 });
 
-/*  AI MODEL CONFIGURATION  */
-// Variabel untuk menyimpan model CNN
+/* AI MODEL CONFIGURATION  */
 let cnnModel = null;
 let isModelLoading = true;
 
-// Fungsi untuk meload model CNN dari folder hasil konversi
 async function loadCNNModel() {
   try {
     console.log("Sedang memuat model CNN...");
@@ -235,8 +246,7 @@ async function loadCNNModel() {
       runBtn.textContent = "Memuat Model AI (Mohon Tunggu)...";
     }
 
-    // Memanggil file model.json 
-    cnnModel = await tf.loadGraphModel('model.json');
+    cnnModel = await tf.loadGraphModel('model_tfjs_graph/model.json');
     
     isModelLoading = false;
     if(runBtn) {
@@ -254,7 +264,7 @@ async function loadCNNModel() {
   }
 }
 
-/*  SCREENING LOGIC  */
+/* SCREENING LOGIC  */
 const uploadZone = document.getElementById('uploadZone');
 const xrayInput = document.getElementById('xrayInput');
 const xrayPreview = document.getElementById('xrayPreview');
@@ -299,7 +309,6 @@ runBtn.addEventListener('click', ()=>{
   if(!xrayUploaded){ formHint.textContent = 'Mohon upload citra X-ray terlebih dahulu.'; formHint.style.color = 'var(--orange)'; return; }
   if(!name || !age || !date){ formHint.textContent = 'Lengkapi nama, umur, dan tanggal pemeriksaan terlebih dahulu.'; formHint.style.color = 'var(--orange)'; return; }
   
-  // Memblokir prediksi jika model AI belum termuat
   if(isModelLoading || !cnnModel) { 
     formHint.textContent = 'Model AI belum selesai dimuat. Tunggu sebentar...'; 
     formHint.style.color = 'var(--orange)';
@@ -311,29 +320,21 @@ runBtn.addEventListener('click', ()=>{
   runBtn.disabled = true;
   scanOverlay.classList.add('show');
 
-  // Proses Prediksi Gambar Menggunakan TensorFlow.js
   setTimeout(async () => {
     scanOverlay.classList.remove('show');
     runBtn.disabled = false;
 
     try {
-      //  Ambil elemen gambar dan jadikan Tensor
-      // Catatan: Model ResNet50 secara default menerima input berukuran 224x224
       let tensor = tf.browser.fromPixels(xrayPreview)
         .resizeNearestNeighbor([224, 224]) 
         .toFloat();
       
-      //  Normalisasi Gambar (bagi dengan 255.0)
       tensor = tensor.div(tf.scalar(255.0));
-      
-      //  Tambahkan dimensi batch
       tensor = tensor.expandDims(0);
 
-      //  Jalankan AI Prediksi
       const prediction = await cnnModel.predict(tensor).data();
       const hasilPrediksi = prediction[0]; 
 
-      //  Tentukan Status berdasarkan probabilitas model
       const isPositive = hasilPrediksi > 0.5; 
       const confidence = isPositive ? (hasilPrediksi * 100) : ((1 - hasilPrediksi) * 100);
 
@@ -365,17 +366,23 @@ runBtn.addEventListener('click', ()=>{
       formHint.textContent = "Terjadi kesalahan saat memproses gambar.";
       formHint.style.color = "var(--red)";
     }
-  }, 1600); // Sedikit delay 
+  }, 1600);
 });
 
-/*  INIT RUN  */
+/* INIT RUN  */
 async function runSetup() {
     await loadTBData();
-    await loadCNNModel(); // Memuat model AI saat web pertama kali dibuka
+    await loadCNNModel(); 
     initMap();
     
-    const startYear = document.getElementById('filterYear').value || "2025";
-    await updateDashboardByYear(startYear);
+    // Ambil tahun otomatis dari dropdown yang udah keisi
+    const filterYearDropdown = document.getElementById('filterYear');
+    const startYear = filterYearDropdown.value; 
+    
+    // Validasi jaga-jaga kalau json kosong
+    if(startYear) {
+      await updateDashboardByYear(startYear);
+    }
     
     const regencySelect = document.getElementById('fRegency');
     const uniqueNames = [...new Set(kalbarData.map(d => d.name.split(',')[1] || d.name))].filter(Boolean);
