@@ -53,7 +53,7 @@
         <div class="stat-icon" style="background:rgba(230,57,70,0.15); color:var(--red);">⚕</div>
       </div>
       <div class="stat-value" id="statTotalCases">0</div>
-      <div class="stat-trend trend-up">▲ Berdasarkan Data QGIS</div>
+      <div class="stat-trend trend-up">▲ Berdasarkan Data Valid</div>
     </div>
     <div class="card stat-card">
       <div class="stat-top">
@@ -69,7 +69,7 @@
         <div class="stat-icon" style="background:rgba(0,180,216,0.15); color:var(--primary-light);">▣</div>
       </div>
       <div class="stat-value" id="statScreenings">0</div>
-      <div class="stat-trend" style="color:var(--gray);">akumulasi 2020&ndash;2025</div>
+      <div class="stat-trend" style="color:var(--gray);">Akumulasi pada tahun terpilih</div>
     </div>
     <div class="card stat-card">
       <div class="stat-top">
@@ -77,7 +77,7 @@
         <div class="stat-icon" style="background:rgba(46,204,113,0.15); color:var(--green);">%</div>
       </div>
       <div class="stat-value" id="statPositiveRate">0%</div>
-      <div class="stat-trend trend-down">▼ Estimasi</div>
+      <div class="stat-trend trend-down">▼ Dari total pasien diskrining</div>
     </div>
   </div>
 
@@ -87,14 +87,7 @@
         <div class="panel-title"><span class="pulse-dot"></span>Interactive LISA map</div>
         <div class="filters">
           <div class="select-wrap">
-            <select id="filterYear">
-              <option value="2025">2025</option>
-              <option value="2024">2024</option>
-              <option value="2023">2023</option>
-              <option value="2022">2022</option>
-              <option value="2021">2021</option>
-              <option value="2020">2020</option>
-            </select>
+            <select id="filterYear"></select>
           </div>
           <div class="select-wrap">
             <select id="filterRegion">
@@ -141,11 +134,11 @@
 
   <div class="charts-grid">
     <div class="card chart-card">
-      <h3>Tren TB tahunan (2020&ndash;2025)</h3>
+      <h3>Tren Kasus TB Tahunan</h3>
       <canvas id="lineChart"></canvas>
     </div>
     <div class="card chart-card">
-      <h3>Wilayah terdampak teratas</h3>
+      <h3>Wilayah Terdampak Teratas</h3>
       <canvas id="barChart"></canvas>
     </div>
   </div>
@@ -190,7 +183,7 @@
         <div class="confidence-bar-track">
           <div class="confidence-bar-fill" id="confidenceBarFill" style="width:0%; background:var(--primary);"></div>
         </div>
-        <p class="field-note">Hasil ini adalah alat bantu skrining awal, bukan diagnosis final. Konfirmasi oleh tenaga medis tetap diperlukan.</p>
+        <p class="field-note">Hasil ini adalah alat bantu skrining awal, bukan diagnosis final.</p>
 
         <div class="storage-status">
           <div class="storage-pill" id="storagePillLocal"><span>&#9679;</span> Saved locally (offline)</div>
