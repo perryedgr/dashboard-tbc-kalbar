@@ -135,11 +135,21 @@ function renderRanking(data){
         <div class="rank-name">${d.name}</div>
         <div class="rank-meta">
           <span class="cluster-badge" style="background:${clusterColors[d.cluster]||'#ADB5BD'}22; color:${clusterColors[d.cluster]||'#ADB5BD'};">${clusterLabels[d.cluster]||'No data'}</span>
-          <span style="color:${d.growth>=0?'#E63946':'#2ECC71'};">${d.growth>=0?'▲':'▼'} ${Math.abs(d.growth)}%</span>
         </div>
       </div>
       <div class="rank-cases">${d.cases}</div>
     </div>
+  `).join('');
+}
+
+function renderStatsTable(data){
+  const sorted = [...data].sort((a,b)=>b.cases-a.cases);
+  document.getElementById('statsTableBody').innerHTML = sorted.map(d=>`
+    <tr>
+      <td>${d.name}</td>
+      <td style="font-family:var(--font-mono);">${d.cases}</td>
+      <td><span class="cluster-badge" style="background:${clusterColors[d.cluster]||'#ADB5BD'}22; color:${clusterColors[d.cluster]||'#ADB5BD'};">${clusterLabels[d.cluster]||'No data'}</span></td>
+    </tr>
   `).join('');
 }
 
