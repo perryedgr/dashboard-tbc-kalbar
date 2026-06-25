@@ -1,0 +1,5151 @@
+{
+"2020":[
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_Pemangkat",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Tebas",
+  "TOTAL_KASUS": 88
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Tekarang",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Sambas",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Subah",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_Sebawi",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 61
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Bengkayang_TelukKeramat",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Bengkayang_MempawahHulu",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Bengkayang_Menyuke",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Bengkayang_Galing",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Bengkayang_Tangaran",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Bengkayang_Sejangkung",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Bengkayang_SajinganBesar",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Bengkayang_Paloh",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Bengkayang_Mandor",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Bengkayang_Meranti",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Bengkayang_KualaBehe",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Bengkayang_Sebangki",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Bengkayang_Jelimpo",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Bengkayang_Sompak",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Bengkayang_BanyukeHulu",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Mempawah_SungaiKunyit",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Mempawah_SungaiPinyuh",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Mempawah_MempawahHilir",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Mempawah_MempawahTimur",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Anjongan",
+  "KUNCI_JOIN": "Mempawah_Anjongan",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Mempawah_Toho",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Mempawah_Sadaniang",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Mempawah_Segedong",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Jongkat",
+  "KUNCI_JOIN": "Mempawah_Jongkat",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Landak_Menjalin",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Landak_MempawahHulu",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Landak_Menyuke",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Landak_AirBesar",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Landak_Ngabang",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Landak_SengahTemila",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Landak_Mandor",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Landak_Meranti",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Landak_KualaBehe",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Landak_Sebangki",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Landak_Jelimpo",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Landak_Sompak",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Landak_BanyukeHulu",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakKota",
+  "KUNCI_JOIN": "Pontianak_PontianakKota",
+  "TOTAL_KASUS": 152
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakBarat",
+  "KUNCI_JOIN": "Pontianak_PontianakBarat",
+  "TOTAL_KASUS": 151
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakSelatan",
+  "KUNCI_JOIN": "Pontianak_PontianakSelatan",
+  "TOTAL_KASUS": 65
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakTenggara",
+  "KUNCI_JOIN": "Pontianak_PontianakTenggara",
+  "TOTAL_KASUS": 48
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakTimur",
+  "KUNCI_JOIN": "Pontianak_PontianakTimur",
+  "TOTAL_KASUS": 85
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "PontianakUtara",
+  "KUNCI_JOIN": "Pontianak_PontianakUtara",
+  "TOTAL_KASUS": 83
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "BatuAmpar",
+  "KUNCI_JOIN": "KubuRaya_BatuAmpar",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Terentang",
+  "KUNCI_JOIN": "KubuRaya_Terentang",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Kubu",
+  "KUNCI_JOIN": "KubuRaya_Kubu",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "TelukPakedai",
+  "KUNCI_JOIN": "KubuRaya_TelukPakedai",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiKakap",
+  "KUNCI_JOIN": "KubuRaya_SungaiKakap",
+  "TOTAL_KASUS": 51
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "RasauJaya",
+  "KUNCI_JOIN": "KubuRaya_RasauJaya",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "KubuRaya_SungaiRaya",
+  "TOTAL_KASUS": 151
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiAmbawang",
+  "KUNCI_JOIN": "KubuRaya_SungaiAmbawang",
+  "TOTAL_KASUS": 39
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "KualaMandorB",
+  "KUNCI_JOIN": "KubuRaya_KualaMandorB",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sokan",
+  "KUNCI_JOIN": "Melawi_Sokan",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinoh",
+  "KUNCI_JOIN": "Melawi_TanahPinoh",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinohBarat",
+  "KUNCI_JOIN": "Melawi_TanahPinohBarat",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sayan",
+  "KUNCI_JOIN": "Melawi_Sayan",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Belimbing",
+  "KUNCI_JOIN": "Melawi_Belimbing",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "BelimbingHulu",
+  "KUNCI_JOIN": "Melawi_BelimbingHulu",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "NangaPinoh",
+  "KUNCI_JOIN": "Melawi_NangaPinoh",
+  "TOTAL_KASUS": 191
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohSelatan",
+  "KUNCI_JOIN": "Melawi_PinohSelatan",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohUtara",
+  "KUNCI_JOIN": "Melawi_PinohUtara",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "EllaHilir",
+  "KUNCI_JOIN": "Melawi_EllaHilir",
+  "TOTAL_KASUS": 44
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Menukung",
+  "KUNCI_JOIN": "Melawi_Menukung",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 46
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 92
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_Bonti",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir",
+  "TOTAL_KASUS": 55
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Balai",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_TayanHulu",
+  "TOTAL_KASUS": 31
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kembayan",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduai",
+  "KUNCI_JOIN": "Sanggau_Beduai",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Noyan",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong",
+  "TOTAL_KASUS": 113
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Serawai",
+  "KUNCI_JOIN": "Sintang_Serawai",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Ambalau",
+  "KUNCI_JOIN": "Sintang_Ambalau",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHulu",
+  "KUNCI_JOIN": "Sintang_KayanHulu",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sepauk",
+  "KUNCI_JOIN": "Sintang_Sepauk",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Tempunak",
+  "KUNCI_JOIN": "Sintang_Tempunak",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "SeiTebelian",
+  "KUNCI_JOIN": "Sintang_SeiTebelian",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sintang",
+  "KUNCI_JOIN": "Sintang_Sintang",
+  "TOTAL_KASUS": 62
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Dedai",
+  "KUNCI_JOIN": "Sintang_Dedai",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHilir",
+  "KUNCI_JOIN": "Sintang_KayanHilir",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KelamPermai",
+  "KUNCI_JOIN": "Sintang_KelamPermai",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "BinjaiHulu",
+  "KUNCI_JOIN": "Sintang_BinjaiHulu",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHilir",
+  "KUNCI_JOIN": "Sintang_KetungauHilir",
+  "TOTAL_KASUS": 52
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauTengah",
+  "KUNCI_JOIN": "Sintang_KetungauTengah",
+  "TOTAL_KASUS": 64
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHulu",
+  "KUNCI_JOIN": "Sintang_KetungauHulu",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Kendawangan",
+  "KUNCI_JOIN": "Ketapang_Kendawangan",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "ManisMata",
+  "KUNCI_JOIN": "Ketapang_ManisMata",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Marau",
+  "KUNCI_JOIN": "Ketapang_Marau",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "AirUpas",
+  "KUNCI_JOIN": "Ketapang_AirUpas",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Singkup",
+  "KUNCI_JOIN": "Ketapang_Singkup",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "JelaiHulu",
+  "KUNCI_JOIN": "Ketapang_JelaiHulu",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "TumbangTiti",
+  "KUNCI_JOIN": "Ketapang_TumbangTiti",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Pemahan",
+  "KUNCI_JOIN": "Ketapang_Pemahan",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiMelayuRayak",
+  "KUNCI_JOIN": "Ketapang_SungaiMelayuRayak",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "BenuaKayong",
+  "KUNCI_JOIN": "Ketapang_BenuaKayong",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirUtara",
+  "KUNCI_JOIN": "Ketapang_MatanHilirUtara",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "DeltaPawan",
+  "KUNCI_JOIN": "Ketapang_DeltaPawan",
+  "TOTAL_KASUS": 97
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MuaraPawan",
+  "KUNCI_JOIN": "Ketapang_MuaraPawan",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "NangaTayap",
+  "KUNCI_JOIN": "Ketapang_NangaTayap",
+  "TOTAL_KASUS": 31
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Sandai",
+  "KUNCI_JOIN": "Ketapang_Sandai",
+  "TOTAL_KASUS": 52
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "HuluSungai",
+  "KUNCI_JOIN": "Ketapang_HuluSungai",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiLaur",
+  "KUNCI_JOIN": "Ketapang_SungaiLaur",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangHulu",
+  "KUNCI_JOIN": "Ketapang_SimpangHulu",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangDua",
+  "KUNCI_JOIN": "Ketapang_SimpangDua",
+  "TOTAL_KASUS": 16
+ }
+],
+"2021":[
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "Bengkayang_SungaiRaya",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Capkala",
+  "KUNCI_JOIN": "Bengkayang_Capkala",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRayaKepulauan",
+  "KUNCI_JOIN": "Bengkayang_SungaiRayaKepulauan",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Samalantan",
+  "KUNCI_JOIN": "Bengkayang_Samalantan",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Monterado",
+  "KUNCI_JOIN": "Bengkayang_Monterado",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "LembahBawang",
+  "KUNCI_JOIN": "Bengkayang_LembahBawang",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Bengkayang",
+  "KUNCI_JOIN": "Bengkayang_Bengkayang",
+  "TOTAL_KASUS": 47
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Teriak",
+  "KUNCI_JOIN": "Bengkayang_Teriak",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiBetung",
+  "KUNCI_JOIN": "Bengkayang_SungaiBetung",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ledo",
+  "KUNCI_JOIN": "Bengkayang_Ledo",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SutiSemarang",
+  "KUNCI_JOIN": "Bengkayang_SutiSemarang",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Lumar",
+  "KUNCI_JOIN": "Bengkayang_Lumar",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SanggauLedo",
+  "KUNCI_JOIN": "Bengkayang_SanggauLedo",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "TujuhBelas",
+  "KUNCI_JOIN": "Bengkayang_TujuhBelas",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Seluas",
+  "KUNCI_JOIN": "Bengkayang_Seluas",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Jagoi",
+  "KUNCI_JOIN": "Bengkayang_Jagoi",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Siding",
+  "KUNCI_JOIN": "Bengkayang_Siding",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_TujuhBelas",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Seluas",
+  "TOTAL_KASUS": 89
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Jagoi",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Siding",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 61
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan",
+  "TOTAL_KASUS": 35
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "BatuAmpar",
+  "KUNCI_JOIN": "KubuRaya_BatuAmpar",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Terentang",
+  "KUNCI_JOIN": "KubuRaya_Terentang",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Kubu",
+  "KUNCI_JOIN": "KubuRaya_Kubu",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "TelukPakedai",
+  "KUNCI_JOIN": "KubuRaya_TelukPakedai",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiKakap",
+  "KUNCI_JOIN": "KubuRaya_SungaiKakap",
+  "TOTAL_KASUS": 56
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "RasauJaya",
+  "KUNCI_JOIN": "KubuRaya_RasauJaya",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "KubuRaya_SungaiRaya",
+  "TOTAL_KASUS": 156
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiAmbawang",
+  "KUNCI_JOIN": "KubuRaya_SungaiAmbawang",
+  "TOTAL_KASUS": 73
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "KualaMandorB",
+  "KUNCI_JOIN": "KubuRaya_KualaMandorB",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Landak_Menjalin",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Landak_MempawahHulu",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Landak_Menyuke",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Landak_AirBesar",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Landak_Ngabang",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Landak_SengahTemila",
+  "TOTAL_KASUS": 51
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Landak_Mandor",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Landak_Meranti",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Landak_KualaBehe",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Landak_Sebangki",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Landak_Jelimpo",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Landak_Sompak",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Landak_BanyukeHulu",
+  "TOTAL_KASUS": 73
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Mempawah_SungaiKunyit",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Mempawah_MempawahHilir",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Mempawah_MempawahTimur",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Mempawah_SungaiPinyuh",
+  "TOTAL_KASUS": 45
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Anjongan",
+  "KUNCI_JOIN": "Mempawah_Anjongan",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Mempawah_Toho",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Mempawah_Sadaniang",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Mempawah_Segedong",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Jongkat",
+  "KUNCI_JOIN": "Mempawah_Jongkat",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sokan",
+  "KUNCI_JOIN": "Melawi_Sokan",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinoh",
+  "KUNCI_JOIN": "Melawi_TanahPinoh",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinohBarat",
+  "KUNCI_JOIN": "Melawi_TanahPinohBarat",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sayan",
+  "KUNCI_JOIN": "Melawi_Sayan",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Belimbing",
+  "KUNCI_JOIN": "Melawi_Belimbing",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "BelimbingHulu",
+  "KUNCI_JOIN": "Melawi_BelimbingHulu",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "NangaPinoh",
+  "KUNCI_JOIN": "Melawi_NangaPinoh",
+  "TOTAL_KASUS": 266
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohSelatan",
+  "KUNCI_JOIN": "Melawi_PinohSelatan",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohUtara",
+  "KUNCI_JOIN": "Melawi_PinohUtara",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "EllaHilir",
+  "KUNCI_JOIN": "Melawi_EllaHilir",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Menukung",
+  "KUNCI_JOIN": "Melawi_Menukung",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 73
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_Bonti",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Balai",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_TayanHulu",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kembayan",
+  "TOTAL_KASUS": 33
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduai",
+  "KUNCI_JOIN": "Sanggau_Beduai",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Noyan",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong",
+  "TOTAL_KASUS": 48
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Serawai",
+  "KUNCI_JOIN": "Sintang_Serawai",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Ambalau",
+  "KUNCI_JOIN": "Sintang_Ambalau",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHulu",
+  "KUNCI_JOIN": "Sintang_KayanHulu",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sepauk",
+  "KUNCI_JOIN": "Sintang_Sepauk",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Tempunak",
+  "KUNCI_JOIN": "Sintang_Tempunak",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sei.Tebelian",
+  "KUNCI_JOIN": "Sintang_Sei.Tebelian",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sintang",
+  "KUNCI_JOIN": "Sintang_Sintang",
+  "TOTAL_KASUS": 70
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Dedai",
+  "KUNCI_JOIN": "Sintang_Dedai",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHilir",
+  "KUNCI_JOIN": "Sintang_KayanHilir",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KelamPermai",
+  "KUNCI_JOIN": "Sintang_KelamPermai",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "BinjalHulu",
+  "KUNCI_JOIN": "Sintang_BinjalHulu",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHilir",
+  "KUNCI_JOIN": "Sintang_KetungauHilir",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauTengah",
+  "KUNCI_JOIN": "Sintang_KetungauTengah",
+  "TOTAL_KASUS": 39
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHulu",
+  "KUNCI_JOIN": "Sintang_KetungauHulu",
+  "TOTAL_KASUS": 1
+ }
+],
+"2022":[
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Serawai",
+  "KUNCI_JOIN": "Sintang_Serawai",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Ambalau",
+  "KUNCI_JOIN": "Sintang_Ambalau",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHulu",
+  "KUNCI_JOIN": "Sintang_KayanHulu",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sepauk",
+  "KUNCI_JOIN": "Sintang_Sepauk",
+  "TOTAL_KASUS": 54
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Tempunak",
+  "KUNCI_JOIN": "Sintang_Tempunak",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sei.Tebelian",
+  "KUNCI_JOIN": "Sintang_Sei.Tebelian",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sintang",
+  "KUNCI_JOIN": "Sintang_Sintang",
+  "TOTAL_KASUS": 190
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Dedai",
+  "KUNCI_JOIN": "Sintang_Dedai",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHilir",
+  "KUNCI_JOIN": "Sintang_KayanHilir",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KelamPermai",
+  "KUNCI_JOIN": "Sintang_KelamPermai",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "BinjalHulu",
+  "KUNCI_JOIN": "Sintang_BinjalHulu",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHilir",
+  "KUNCI_JOIN": "Sintang_KetungauHilir",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauTengah",
+  "KUNCI_JOIN": "Sintang_KetungauTengah",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHulu",
+  "KUNCI_JOIN": "Sintang_KetungauHulu",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 73
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 175
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 31
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 31
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_KetungauHulu",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu",
+  "TOTAL_KASUS": 45
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir",
+  "TOTAL_KASUS": 67
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 30
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 100
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 52
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduai",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam",
+  "TOTAL_KASUS": 78
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Jongkat",
+  "KUNCI_JOIN": "Mempawah_Jongkat",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Mempawah_Segedong",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Mempawah_SungaiPinyuh",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Anjongan",
+  "KUNCI_JOIN": "Mempawah_Anjongan",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Mempawah_MempawahHilir",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Mempawah_MempawahTimur",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Mempawah_SungaiKunyit",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Mempawah_Toho",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Mempawah",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Mempawah_Sadaniang",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangUtara",
+  "KUNCI_JOIN": "Singkawang_SingkawangUtara",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTengah",
+  "KUNCI_JOIN": "Singkawang_SingkawangTengah",
+  "TOTAL_KASUS": 66
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangBarat",
+  "KUNCI_JOIN": "Singkawang_SingkawangBarat",
+  "TOTAL_KASUS": 49
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTimur",
+  "KUNCI_JOIN": "Singkawang_SingkawangTimur",
+  "TOTAL_KASUS": 30
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangSelatan",
+  "KUNCI_JOIN": "Singkawang_SingkawangSelatan",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Kendawangan",
+  "KUNCI_JOIN": "Ketapang_Kendawangan",
+  "TOTAL_KASUS": 48
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "ManisMata",
+  "KUNCI_JOIN": "Ketapang_ManisMata",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Marau",
+  "KUNCI_JOIN": "Ketapang_Marau",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "AirUpas",
+  "KUNCI_JOIN": "Ketapang_AirUpas",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Singkup",
+  "KUNCI_JOIN": "Ketapang_Singkup",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "JelaiHulu",
+  "KUNCI_JOIN": "Ketapang_JelaiHulu",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "TumbangTiti",
+  "KUNCI_JOIN": "Ketapang_TumbangTiti",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Pemahan",
+  "KUNCI_JOIN": "Ketapang_Pemahan",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiMelayuRayak",
+  "KUNCI_JOIN": "Ketapang_SungaiMelayuRayak",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "BenuaKayong",
+  "KUNCI_JOIN": "Ketapang_BenuaKayong",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirUtara",
+  "KUNCI_JOIN": "Ketapang_MatanHilirUtara",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "DeltaPawan",
+  "KUNCI_JOIN": "Ketapang_DeltaPawan",
+  "TOTAL_KASUS": 117
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MuaraPawan",
+  "KUNCI_JOIN": "Ketapang_MuaraPawan",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "NangaTayap",
+  "KUNCI_JOIN": "Ketapang_NangaTayap",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Sandai",
+  "KUNCI_JOIN": "Ketapang_Sandai",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "HuluSungai",
+  "KUNCI_JOIN": "Ketapang_HuluSungai",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiLaur",
+  "KUNCI_JOIN": "Ketapang_SungaiLaur",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangHulu",
+  "KUNCI_JOIN": "Ketapang_SimpangHulu",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangDua",
+  "KUNCI_JOIN": "Ketapang_SimpangDua",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Landak_Menjalin",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Landak_MempawahHulu",
+  "TOTAL_KASUS": 63
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Landak_Menyuke",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Landak_AirBesar",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Landak_Ngabang",
+  "TOTAL_KASUS": 262
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Landak_SengahTemila",
+  "TOTAL_KASUS": 74
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Landak_Mandor",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Landak_Meranti",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Landak_KualaBehe",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Landak_Sebangki",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Landak_Jelimpo",
+  "TOTAL_KASUS": 47
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Landak_Sompak",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Landak_BanyukeHulu",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "Bengkayang_SungaiRaya",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Capkala",
+  "KUNCI_JOIN": "Bengkayang_Capkala",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRayaKepulauan",
+  "KUNCI_JOIN": "Bengkayang_SungaiRayaKepulauan",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Samalantan",
+  "KUNCI_JOIN": "Bengkayang_Samalantan",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Monterado",
+  "KUNCI_JOIN": "Bengkayang_Monterado",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "LembahBawang",
+  "KUNCI_JOIN": "Bengkayang_LembahBawang",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Bengkayang",
+  "KUNCI_JOIN": "Bengkayang_Bengkayang",
+  "TOTAL_KASUS": 65
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Teriak",
+  "KUNCI_JOIN": "Bengkayang_Teriak",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiBetung",
+  "KUNCI_JOIN": "Bengkayang_SungaiBetung",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ledo",
+  "KUNCI_JOIN": "Bengkayang_Ledo",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SutiSemarang",
+  "KUNCI_JOIN": "Bengkayang_SutiSemarang",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Lumar",
+  "KUNCI_JOIN": "Bengkayang_Lumar",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SanggauLedo",
+  "KUNCI_JOIN": "Bengkayang_SanggauLedo",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "TujuhBelas",
+  "KUNCI_JOIN": "Bengkayang_TujuhBelas",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Seluas",
+  "KUNCI_JOIN": "Bengkayang_Seluas",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "JagoiBabang",
+  "KUNCI_JOIN": "Bengkayang_JagoiBabang",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Siding",
+  "KUNCI_JOIN": "Bengkayang_Siding",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_Pemangkat",
+  "TOTAL_KASUS": 48
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Tebas",
+  "TOTAL_KASUS": 55
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Tekarang",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Sambas",
+  "TOTAL_KASUS": 61
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Subah",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_Sebawi",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 75
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 30
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung",
+  "TOTAL_KASUS": 33
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan",
+  "TOTAL_KASUS": 56
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara",
+  "TOTAL_KASUS": 33
+ }
+],
+"2023":[
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Bengkayang",
+  "KUNCI_JOIN": "Bengkayang_Bengkayang",
+  "TOTAL_KASUS": 96
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Capkala",
+  "KUNCI_JOIN": "Bengkayang_Capkala",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "JagoiBabang",
+  "KUNCI_JOIN": "Bengkayang_JagoiBabang",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ledo",
+  "KUNCI_JOIN": "Bengkayang_Ledo",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "LembahBawang",
+  "KUNCI_JOIN": "Bengkayang_LembahBawang",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Lumar",
+  "KUNCI_JOIN": "Bengkayang_Lumar",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Monterado",
+  "KUNCI_JOIN": "Bengkayang_Monterado",
+  "TOTAL_KASUS": 31
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Samalantan",
+  "KUNCI_JOIN": "Bengkayang_Samalantan",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SanggauLedo",
+  "KUNCI_JOIN": "Bengkayang_SanggauLedo",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Seluas",
+  "KUNCI_JOIN": "Bengkayang_Seluas",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Siding",
+  "KUNCI_JOIN": "Bengkayang_Siding",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiBetung",
+  "KUNCI_JOIN": "Bengkayang_SungaiBetung",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "Bengkayang_SungaiRaya",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRayaKepulauan",
+  "KUNCI_JOIN": "Bengkayang_SungaiRayaKepulauan",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SutiSemarang",
+  "KUNCI_JOIN": "Bengkayang_SutiSemarang",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Teriak",
+  "KUNCI_JOIN": "Bengkayang_Teriak",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Tujuhbelas",
+  "KUNCI_JOIN": "Bengkayang_Tujuhbelas",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "DanauSentarum",
+  "KUNCI_JOIN": "KapuasHulu_DanauSentarum"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluKapuas",
+  "KUNCI_JOIN": "KapuasHulu_HuluKapuas",
+  "TOTAL_KASUS": " "
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan",
+  "TOTAL_KASUS": 60
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "PulauMayaKarimata",
+  "KUNCI_JOIN": "KayongUtara_PulauMayaKarimata",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Seponti",
+  "KUNCI_JOIN": "KayongUtara_Seponti",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "SimpangHilir",
+  "KUNCI_JOIN": "KayongUtara_SimpangHilir",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Sukadana",
+  "KUNCI_JOIN": "KayongUtara_Sukadana",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "TelukBatang",
+  "KUNCI_JOIN": "KayongUtara_TelukBatang",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "AirUpas",
+  "KUNCI_JOIN": "Ketapang_AirUpas",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "BenuaKayong",
+  "KUNCI_JOIN": "Ketapang_BenuaKayong",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "DeltaPawan",
+  "KUNCI_JOIN": "Ketapang_DeltaPawan",
+  "TOTAL_KASUS": 81
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "HuluSungai",
+  "KUNCI_JOIN": "Ketapang_HuluSungai",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "JelaiHulu",
+  "KUNCI_JOIN": "Ketapang_JelaiHulu",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Kendawangan",
+  "KUNCI_JOIN": "Ketapang_Kendawangan",
+  "TOTAL_KASUS": 45
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "ManisMata",
+  "KUNCI_JOIN": "Ketapang_ManisMata",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Marau",
+  "KUNCI_JOIN": "Ketapang_Marau",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan",
+  "TOTAL_KASUS": 39
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirUtara",
+  "KUNCI_JOIN": "Ketapang_MatanHilirUtara",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MuaraPawan",
+  "KUNCI_JOIN": "Ketapang_MuaraPawan",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "NangaTayap",
+  "KUNCI_JOIN": "Ketapang_NangaTayap",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Pemahan",
+  "KUNCI_JOIN": "Ketapang_Pemahan",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Sandai",
+  "KUNCI_JOIN": "Ketapang_Sandai",
+  "TOTAL_KASUS": 38
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangDua",
+  "KUNCI_JOIN": "Ketapang_SimpangDua",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangHulu",
+  "KUNCI_JOIN": "Ketapang_SimpangHulu",
+  "TOTAL_KASUS": 33
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Singkup",
+  "KUNCI_JOIN": "Ketapang_Singkup",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiLaur",
+  "KUNCI_JOIN": "Ketapang_SungaiLaur",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiMelayuRayak",
+  "KUNCI_JOIN": "Ketapang_SungaiMelayuRayak",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "TumbangTiti",
+  "KUNCI_JOIN": "Ketapang_TumbangTiti",
+  "TOTAL_KASUS": 33
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakBarat",
+  "KUNCI_JOIN": "KotaPontianak_PontianakBarat"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakKota",
+  "KUNCI_JOIN": "KotaPontianak_PontianakKota"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakSelatan",
+  "KUNCI_JOIN": "KotaPontianak_PontianakSelatan"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakTenggara",
+  "KUNCI_JOIN": "KotaPontianak_PontianakTenggara"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakTimur",
+  "KUNCI_JOIN": "KotaPontianak_PontianakTimur"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakUtara",
+  "KUNCI_JOIN": "KotaPontianak_PontianakUtara"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "BatuAmpar",
+  "KUNCI_JOIN": "KubuRaya_BatuAmpar"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "KualaMandorB",
+  "KUNCI_JOIN": "KubuRaya_KualaMandorB"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Kubu",
+  "KUNCI_JOIN": "KubuRaya_Kubu"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "RasauJaya",
+  "KUNCI_JOIN": "KubuRaya_RasauJaya"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiAmbawang",
+  "KUNCI_JOIN": "KubuRaya_SungaiAmbawang"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiKakap",
+  "KUNCI_JOIN": "KubuRaya_SungaiKakap"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "KubuRaya_SungaiRaya"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "TelokPa'Kedai",
+  "KUNCI_JOIN": "KubuRaya_TelokPa'Kedai"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Terentang",
+  "KUNCI_JOIN": "KubuRaya_Terentang"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Landak_AirBesar"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Landak_BanyukeHulu"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Landak_Jelimpo"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Landak_KualaBehe"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Landak_Mandor"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Landak_MempawahHulu"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Landak_Menjalin"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Landak_Menyuke"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Landak_Meranti"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Landak_Ngabang"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Landak_Sebangki"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Landak_SengahTemila"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Landak_Sompak"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Belimbing",
+  "KUNCI_JOIN": "Melawi_Belimbing",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "BelimbingHulu",
+  "KUNCI_JOIN": "Melawi_BelimbingHulu",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "EllaHilir",
+  "KUNCI_JOIN": "Melawi_EllaHilir",
+  "TOTAL_KASUS": 29
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Menukung",
+  "KUNCI_JOIN": "Melawi_Menukung",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "NangaPinoh",
+  "KUNCI_JOIN": "Melawi_NangaPinoh",
+  "TOTAL_KASUS": 141
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohSelatan",
+  "KUNCI_JOIN": "Melawi_PinohSelatan",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohUtara",
+  "KUNCI_JOIN": "Melawi_PinohUtara",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sayan",
+  "KUNCI_JOIN": "Melawi_Sayan",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sokan",
+  "KUNCI_JOIN": "Melawi_Sokan",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinoh",
+  "KUNCI_JOIN": "Melawi_TanahPinoh",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinohBarat",
+  "KUNCI_JOIN": "Melawi_TanahPinohBarat",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Anjongan",
+  "KUNCI_JOIN": "Pontianak_Anjongan",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Pontianak_MempawahHilir",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Pontianak_MempawahTimur",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Pontianak_Sadaniang",
+  "TOTAL_KASUS": 56
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Pontianak_Segedong",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Siantan",
+  "KUNCI_JOIN": "Pontianak_Siantan"
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Pontianak_SungaiKunyit",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Pontianak_SungaiPinyuh",
+  "TOTAL_KASUS": 35
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Pontianak_Toho",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_Pemangkat",
+  "TOTAL_KASUS": 147
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 1
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Sambas",
+  "TOTAL_KASUS": 209
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_Sebawi",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 33
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Subah",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Tebas",
+  "TOTAL_KASUS": 72
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Tekarang",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 44
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Balai",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduwai",
+  "KUNCI_JOIN": "Sanggau_Beduwai",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_Bonti",
+  "TOTAL_KASUS": 18
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 147
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kembayan",
+  "TOTAL_KASUS": 35
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 61
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Noyan",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam",
+  "TOTAL_KASUS": 66
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir",
+  "TOTAL_KASUS": 52
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_TayanHulu",
+  "TOTAL_KASUS": 81
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "Belitang",
+  "KUNCI_JOIN": "Sekadau_Belitang"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "BelitangHilir",
+  "KUNCI_JOIN": "Sekadau_BelitangHilir"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "BelitangHulu",
+  "KUNCI_JOIN": "Sekadau_BelitangHulu"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "NangaMahap",
+  "KUNCI_JOIN": "Sekadau_NangaMahap"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "NangaTaman",
+  "KUNCI_JOIN": "Sekadau_NangaTaman"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "SekadauHilir",
+  "KUNCI_JOIN": "Sekadau_SekadauHilir"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "SekadauHulu",
+  "KUNCI_JOIN": "Sekadau_SekadauHulu"
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangBarat",
+  "KUNCI_JOIN": "Singkawang_SingkawangBarat",
+  "TOTAL_KASUS": 86
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangSelatan",
+  "KUNCI_JOIN": "Singkawang_SingkawangSelatan",
+  "TOTAL_KASUS": 71
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTengah",
+  "KUNCI_JOIN": "Singkawang_SingkawangTengah",
+  "TOTAL_KASUS": 107
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTimur",
+  "KUNCI_JOIN": "Singkawang_SingkawangTimur",
+  "TOTAL_KASUS": 35
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangUtara",
+  "KUNCI_JOIN": "Singkawang_SingkawangUtara",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Ambalau",
+  "KUNCI_JOIN": "Sintang_Ambalau",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "BinjaiHulu",
+  "KUNCI_JOIN": "Sintang_BinjaiHulu",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Dedai",
+  "KUNCI_JOIN": "Sintang_Dedai",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHilir",
+  "KUNCI_JOIN": "Sintang_KayanHilir",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHulu",
+  "KUNCI_JOIN": "Sintang_KayanHulu",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KelamPermai",
+  "KUNCI_JOIN": "Sintang_KelamPermai",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHilir",
+  "KUNCI_JOIN": "Sintang_KetungauHilir",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHulu",
+  "KUNCI_JOIN": "Sintang_KetungauHulu",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauTengah",
+  "KUNCI_JOIN": "Sintang_KetungauTengah",
+  "TOTAL_KASUS": 55
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sepauk",
+  "KUNCI_JOIN": "Sintang_Sepauk",
+  "TOTAL_KASUS": 66
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Serawai",
+  "KUNCI_JOIN": "Sintang_Serawai",
+  "TOTAL_KASUS": 39
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sintang",
+  "KUNCI_JOIN": "Sintang_Sintang",
+  "TOTAL_KASUS": 83
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "SungaiTebelian",
+  "KUNCI_JOIN": "Sintang_SungaiTebelian",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Tempunak",
+  "KUNCI_JOIN": "Sintang_Tempunak",
+  "TOTAL_KASUS": 22
+ }
+],
+"2024":[
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Bengkayang",
+  "KUNCI_JOIN": "Bengkayang_Bengkayang",
+  "TOTAL_KASUS": 143
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Capkala",
+  "KUNCI_JOIN": "Bengkayang_Capkala",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "JagoiBabang",
+  "KUNCI_JOIN": "Bengkayang_JagoiBabang",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ledo",
+  "KUNCI_JOIN": "Bengkayang_Ledo",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "LembahBawang",
+  "KUNCI_JOIN": "Bengkayang_LembahBawang",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Lumar",
+  "KUNCI_JOIN": "Bengkayang_Lumar",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Monterado",
+  "KUNCI_JOIN": "Bengkayang_Monterado",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Samalantan",
+  "KUNCI_JOIN": "Bengkayang_Samalantan",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SanggauLedo",
+  "KUNCI_JOIN": "Bengkayang_SanggauLedo",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Seluas",
+  "KUNCI_JOIN": "Bengkayang_Seluas",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Siding",
+  "KUNCI_JOIN": "Bengkayang_Siding",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiBetung",
+  "KUNCI_JOIN": "Bengkayang_SungaiBetung",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "Bengkayang_SungaiRaya",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRayaKepulauan",
+  "KUNCI_JOIN": "Bengkayang_SungaiRayaKepulauan",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SutiSemarang",
+  "KUNCI_JOIN": "Bengkayang_SutiSemarang",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Teriak",
+  "KUNCI_JOIN": "Bengkayang_Teriak",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Tujuhbelas",
+  "KUNCI_JOIN": "Bengkayang_Tujuhbelas",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu",
+  "TOTAL_KASUS": 37
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "DanauSentarum",
+  "KUNCI_JOIN": "KapuasHulu_DanauSentarum",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung",
+  "TOTAL_KASUS": 50
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluKapuas",
+  "KUNCI_JOIN": "KapuasHulu_HuluKapuas",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan",
+  "TOTAL_KASUS": 64
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara",
+  "TOTAL_KASUS": 77
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang",
+  "TOTAL_KASUS": 47
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "PulauMayaKarimata",
+  "KUNCI_JOIN": "KayongUtara_PulauMayaKarimata",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Seponti",
+  "KUNCI_JOIN": "KayongUtara_Seponti",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "SimpangHilir",
+  "KUNCI_JOIN": "KayongUtara_SimpangHilir",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Sukadana",
+  "KUNCI_JOIN": "KayongUtara_Sukadana",
+  "TOTAL_KASUS": 77
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "TelukBatang",
+  "KUNCI_JOIN": "KayongUtara_TelukBatang",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "AirUpas",
+  "KUNCI_JOIN": "Ketapang_AirUpas",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "BenuaKayong",
+  "KUNCI_JOIN": "Ketapang_BenuaKayong",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "DeltaPawan",
+  "KUNCI_JOIN": "Ketapang_DeltaPawan",
+  "TOTAL_KASUS": 265
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "HuluSungai",
+  "KUNCI_JOIN": "Ketapang_HuluSungai",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "JelaiHulu",
+  "KUNCI_JOIN": "Ketapang_JelaiHulu",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Kendawangan",
+  "KUNCI_JOIN": "Ketapang_Kendawangan",
+  "TOTAL_KASUS": 49
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "ManisMata",
+  "KUNCI_JOIN": "Ketapang_ManisMata",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Marau",
+  "KUNCI_JOIN": "Ketapang_Marau",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirUtara",
+  "KUNCI_JOIN": "Ketapang_MatanHilirUtara",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MuaraPawan",
+  "KUNCI_JOIN": "Ketapang_MuaraPawan",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "NangaTayap",
+  "KUNCI_JOIN": "Ketapang_NangaTayap",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Pemahan",
+  "KUNCI_JOIN": "Ketapang_Pemahan",
+  "TOTAL_KASUS": 2
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Sandai",
+  "KUNCI_JOIN": "Ketapang_Sandai",
+  "TOTAL_KASUS": 61
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangDua",
+  "KUNCI_JOIN": "Ketapang_SimpangDua",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangHulu",
+  "KUNCI_JOIN": "Ketapang_SimpangHulu",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Singkup",
+  "KUNCI_JOIN": "Ketapang_Singkup",
+  "TOTAL_KASUS": 15
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiLaur",
+  "KUNCI_JOIN": "Ketapang_SungaiLaur",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiMelayuRayak",
+  "KUNCI_JOIN": "Ketapang_SungaiMelayuRayak",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "TumbangTiti",
+  "KUNCI_JOIN": "Ketapang_TumbangTiti",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 11
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_Pemangkat",
+  "TOTAL_KASUS": 419
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Sambas",
+  "TOTAL_KASUS": 84
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_Sebawi",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 21
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 4
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Subah",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Tebas",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Tekarang",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 46
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Balai",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduwai",
+  "KUNCI_JOIN": "Sanggau_Beduwai",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_Bonti",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas",
+  "TOTAL_KASUS": 163
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kembayan",
+  "TOTAL_KASUS": 43
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau",
+  "TOTAL_KASUS": 54
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Noyan",
+  "TOTAL_KASUS": 14
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam",
+  "TOTAL_KASUS": 50
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir",
+  "TOTAL_KASUS": 71
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_TayanHulu",
+  "TOTAL_KASUS": 101
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangBarat",
+  "KUNCI_JOIN": "Singkawang_SingkawangBarat",
+  "TOTAL_KASUS": 88
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangSelatan",
+  "KUNCI_JOIN": "Singkawang_SingkawangSelatan",
+  "TOTAL_KASUS": 111
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTengah",
+  "KUNCI_JOIN": "Singkawang_SingkawangTengah",
+  "TOTAL_KASUS": 126
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTimur",
+  "KUNCI_JOIN": "Singkawang_SingkawangTimur",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangUtara",
+  "KUNCI_JOIN": "Singkawang_SingkawangUtara",
+  "TOTAL_KASUS": 41
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Pontianak_MempawahHilir",
+  "TOTAL_KASUS": 17
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Pontianak_MempawahTimur",
+  "TOTAL_KASUS": 10
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Pontianak_Sadaniang",
+  "TOTAL_KASUS": 70
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Pontianak_Segedong",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Pontianak_SungaiKunyit",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Pontianak_SungaiPinyuh",
+  "TOTAL_KASUS": 62
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Pontianak_Toho",
+  "TOTAL_KASUS": 8
+ }
+],
+"2025":[
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Bengkayang",
+  "KUNCI_JOIN": "Bengkayang_Bengkayang"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Capkala",
+  "KUNCI_JOIN": "Bengkayang_Capkala"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "JagoiBabang",
+  "KUNCI_JOIN": "Bengkayang_JagoiBabang"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Ledo",
+  "KUNCI_JOIN": "Bengkayang_Ledo"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "LembahBawang",
+  "KUNCI_JOIN": "Bengkayang_LembahBawang"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Lumar",
+  "KUNCI_JOIN": "Bengkayang_Lumar"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Monterado",
+  "KUNCI_JOIN": "Bengkayang_Monterado"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Samalantan",
+  "KUNCI_JOIN": "Bengkayang_Samalantan"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SanggauLedo",
+  "KUNCI_JOIN": "Bengkayang_SanggauLedo"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Seluas",
+  "KUNCI_JOIN": "Bengkayang_Seluas"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Siding",
+  "KUNCI_JOIN": "Bengkayang_Siding"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiBetung",
+  "KUNCI_JOIN": "Bengkayang_SungaiBetung"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "Bengkayang_SungaiRaya"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SungaiRayaKepulauan",
+  "KUNCI_JOIN": "Bengkayang_SungaiRayaKepulauan"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "SutiSemarang",
+  "KUNCI_JOIN": "Bengkayang_SutiSemarang"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Teriak",
+  "KUNCI_JOIN": "Bengkayang_Teriak"
+ },
+ {
+  "KABUPATEN": "Bengkayang",
+  "KECAMATAN": "Tujuhbelas",
+  "KUNCI_JOIN": "Bengkayang_Tujuhbelas"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Badau",
+  "KUNCI_JOIN": "KapuasHulu_Badau"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BatangLupar",
+  "KUNCI_JOIN": "KapuasHulu_BatangLupar"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Bika",
+  "KUNCI_JOIN": "KapuasHulu_Bika"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BoyanTanjung",
+  "KUNCI_JOIN": "KapuasHulu_BoyanTanjung"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHilir",
+  "KUNCI_JOIN": "KapuasHulu_BunutHilir"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "BunutHulu",
+  "KUNCI_JOIN": "KapuasHulu_BunutHulu"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "DanauSentarum",
+  "KUNCI_JOIN": "KapuasHulu_DanauSentarum"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHilir",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHilir"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "EmbalohHulu",
+  "KUNCI_JOIN": "KapuasHulu_EmbalohHulu"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Empanang",
+  "KUNCI_JOIN": "KapuasHulu_Empanang"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluGurung",
+  "KUNCI_JOIN": "KapuasHulu_HuluGurung"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "HuluKapuas",
+  "KUNCI_JOIN": "KapuasHulu_HuluKapuas"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Jongkong",
+  "KUNCI_JOIN": "KapuasHulu_Jongkong"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Kalis",
+  "KUNCI_JOIN": "KapuasHulu_Kalis"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Mentebah",
+  "KUNCI_JOIN": "KapuasHulu_Mentebah"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Pengkadan",
+  "KUNCI_JOIN": "KapuasHulu_Pengkadan"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PuringKencana",
+  "KUNCI_JOIN": "KapuasHulu_PuringKencana"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauSelatan",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauSelatan"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "PutussibauUtara",
+  "KUNCI_JOIN": "KapuasHulu_PutussibauUtara"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Seberuang",
+  "KUNCI_JOIN": "KapuasHulu_Seberuang"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Selimbau",
+  "KUNCI_JOIN": "KapuasHulu_Selimbau"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Semitau",
+  "KUNCI_JOIN": "KapuasHulu_Semitau"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHilir",
+  "KUNCI_JOIN": "KapuasHulu_SilatHilir"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "SilatHulu",
+  "KUNCI_JOIN": "KapuasHulu_SilatHulu"
+ },
+ {
+  "KABUPATEN": "KapuasHulu",
+  "KECAMATAN": "Suhaid",
+  "KUNCI_JOIN": "KapuasHulu_Suhaid"
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "PulauMayaKarimata",
+  "KUNCI_JOIN": "KayongUtara_PulauMayaKarimata",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Seponti",
+  "KUNCI_JOIN": "KayongUtara_Seponti",
+  "TOTAL_KASUS": 9
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "SimpangHilir",
+  "KUNCI_JOIN": "KayongUtara_SimpangHilir",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "Sukadana",
+  "KUNCI_JOIN": "KayongUtara_Sukadana",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "KayongUtara",
+  "KECAMATAN": "TelukBatang",
+  "KUNCI_JOIN": "KayongUtara_TelukBatang",
+  "TOTAL_KASUS": 40
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "AirUpas",
+  "KUNCI_JOIN": "Ketapang_AirUpas"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "BenuaKayong",
+  "KUNCI_JOIN": "Ketapang_BenuaKayong"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "DeltaPawan",
+  "KUNCI_JOIN": "Ketapang_DeltaPawan"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "HuluSungai",
+  "KUNCI_JOIN": "Ketapang_HuluSungai"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "JelaiHulu",
+  "KUNCI_JOIN": "Ketapang_JelaiHulu"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Kendawangan",
+  "KUNCI_JOIN": "Ketapang_Kendawangan"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "ManisMata",
+  "KUNCI_JOIN": "Ketapang_ManisMata"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Marau",
+  "KUNCI_JOIN": "Ketapang_Marau"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirSelatan",
+  "KUNCI_JOIN": "Ketapang_MatanHilirSelatan"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MatanHilirUtara",
+  "KUNCI_JOIN": "Ketapang_MatanHilirUtara"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "MuaraPawan",
+  "KUNCI_JOIN": "Ketapang_MuaraPawan"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "NangaTayap",
+  "KUNCI_JOIN": "Ketapang_NangaTayap"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Pemahan",
+  "KUNCI_JOIN": "Ketapang_Pemahan"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Sandai",
+  "KUNCI_JOIN": "Ketapang_Sandai"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangDua",
+  "KUNCI_JOIN": "Ketapang_SimpangDua"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SimpangHulu",
+  "KUNCI_JOIN": "Ketapang_SimpangHulu"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "Singkup",
+  "KUNCI_JOIN": "Ketapang_Singkup"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiLaur",
+  "KUNCI_JOIN": "Ketapang_SungaiLaur"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "SungaiMelayuRayak",
+  "KUNCI_JOIN": "Ketapang_SungaiMelayuRayak"
+ },
+ {
+  "KABUPATEN": "Ketapang",
+  "KECAMATAN": "TumbangTiti",
+  "KUNCI_JOIN": "Ketapang_TumbangTiti"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakBarat",
+  "KUNCI_JOIN": "KotaPontianak_PontianakBarat"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakKota",
+  "KUNCI_JOIN": "KotaPontianak_PontianakKota"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakSelatan",
+  "KUNCI_JOIN": "KotaPontianak_PontianakSelatan"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakTenggara",
+  "KUNCI_JOIN": "KotaPontianak_PontianakTenggara"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakTimur",
+  "KUNCI_JOIN": "KotaPontianak_PontianakTimur"
+ },
+ {
+  "KABUPATEN": "KotaPontianak",
+  "KECAMATAN": "PontianakUtara",
+  "KUNCI_JOIN": "KotaPontianak_PontianakUtara"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "BatuAmpar",
+  "KUNCI_JOIN": "KubuRaya_BatuAmpar"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "KualaMandorB",
+  "KUNCI_JOIN": "KubuRaya_KualaMandorB"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Kubu",
+  "KUNCI_JOIN": "KubuRaya_Kubu"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "RasauJaya",
+  "KUNCI_JOIN": "KubuRaya_RasauJaya"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiAmbawang",
+  "KUNCI_JOIN": "KubuRaya_SungaiAmbawang"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiKakap",
+  "KUNCI_JOIN": "KubuRaya_SungaiKakap"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "SungaiRaya",
+  "KUNCI_JOIN": "KubuRaya_SungaiRaya"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "TelokPa'Kedai",
+  "KUNCI_JOIN": "KubuRaya_TelokPa'Kedai"
+ },
+ {
+  "KABUPATEN": "KubuRaya",
+  "KECAMATAN": "Terentang",
+  "KUNCI_JOIN": "KubuRaya_Terentang"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "AirBesar",
+  "KUNCI_JOIN": "Landak_AirBesar"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "BanyukeHulu",
+  "KUNCI_JOIN": "Landak_BanyukeHulu"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Jelimpo",
+  "KUNCI_JOIN": "Landak_Jelimpo"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "KualaBehe",
+  "KUNCI_JOIN": "Landak_KualaBehe"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Mandor",
+  "KUNCI_JOIN": "Landak_Mandor"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "MempawahHulu",
+  "KUNCI_JOIN": "Landak_MempawahHulu"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menjalin",
+  "KUNCI_JOIN": "Landak_Menjalin"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Menyuke",
+  "KUNCI_JOIN": "Landak_Menyuke"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Meranti",
+  "KUNCI_JOIN": "Landak_Meranti"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Ngabang",
+  "KUNCI_JOIN": "Landak_Ngabang"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sebangki",
+  "KUNCI_JOIN": "Landak_Sebangki"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "SengahTemila",
+  "KUNCI_JOIN": "Landak_SengahTemila"
+ },
+ {
+  "KABUPATEN": "Landak",
+  "KECAMATAN": "Sompak",
+  "KUNCI_JOIN": "Landak_Sompak"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Belimbing",
+  "KUNCI_JOIN": "Melawi_Belimbing"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "BelimbingHulu",
+  "KUNCI_JOIN": "Melawi_BelimbingHulu"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "EllaHilir",
+  "KUNCI_JOIN": "Melawi_EllaHilir"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Menukung",
+  "KUNCI_JOIN": "Melawi_Menukung"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "NangaPinoh",
+  "KUNCI_JOIN": "Melawi_NangaPinoh"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohSelatan",
+  "KUNCI_JOIN": "Melawi_PinohSelatan"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "PinohUtara",
+  "KUNCI_JOIN": "Melawi_PinohUtara"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sayan",
+  "KUNCI_JOIN": "Melawi_Sayan"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "Sokan",
+  "KUNCI_JOIN": "Melawi_Sokan"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinoh",
+  "KUNCI_JOIN": "Melawi_TanahPinoh"
+ },
+ {
+  "KABUPATEN": "Melawi",
+  "KECAMATAN": "TanahPinohBarat",
+  "KUNCI_JOIN": "Melawi_TanahPinohBarat"
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Anjongan",
+  "KUNCI_JOIN": "Pontianak_Anjongan",
+  "TOTAL_KASUS": 38
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahHilir",
+  "KUNCI_JOIN": "Pontianak_MempawahHilir",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "MempawahTimur",
+  "KUNCI_JOIN": "Pontianak_MempawahTimur",
+  "TOTAL_KASUS": 26
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Sadaniang",
+  "KUNCI_JOIN": "Pontianak_Sadaniang",
+  "TOTAL_KASUS": 64
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Segedong",
+  "KUNCI_JOIN": "Pontianak_Segedong",
+  "TOTAL_KASUS": 32
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Siantan",
+  "KUNCI_JOIN": "Pontianak_Siantan"
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiKunyit",
+  "KUNCI_JOIN": "Pontianak_SungaiKunyit",
+  "TOTAL_KASUS": 24
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "SungaiPinyuh",
+  "KUNCI_JOIN": "Pontianak_SungaiPinyuh",
+  "TOTAL_KASUS": 65
+ },
+ {
+  "KABUPATEN": "Pontianak",
+  "KECAMATAN": "Toho",
+  "KUNCI_JOIN": "Pontianak_Toho",
+  "TOTAL_KASUS": 22
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Galing",
+  "KUNCI_JOIN": "Sambas_Galing",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Jawai",
+  "KUNCI_JOIN": "Sambas_Jawai",
+  "TOTAL_KASUS": 52
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "JawaiSelatan",
+  "KUNCI_JOIN": "Sambas_JawaiSelatan",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Paloh",
+  "KUNCI_JOIN": "Sambas_Paloh",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Pemangkat",
+  "KUNCI_JOIN": "Sambas_Pemangkat",
+  "TOTAL_KASUS": 36
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sajad",
+  "KUNCI_JOIN": "Sambas_Sajad",
+  "TOTAL_KASUS": 3
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SajinganBesar",
+  "KUNCI_JOIN": "Sambas_SajinganBesar",
+  "TOTAL_KASUS": 13
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Salatiga",
+  "KUNCI_JOIN": "Sambas_Salatiga",
+  "TOTAL_KASUS": 6
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sambas",
+  "KUNCI_JOIN": "Sambas_Sambas",
+  "TOTAL_KASUS": 76
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sebawi",
+  "KUNCI_JOIN": "Sambas_Sebawi",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Sejangkung",
+  "KUNCI_JOIN": "Sambas_Sejangkung",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Selakau",
+  "KUNCI_JOIN": "Sambas_Selakau",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "SelakauTimur",
+  "KUNCI_JOIN": "Sambas_SelakauTimur",
+  "TOTAL_KASUS": 8
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Semparuk",
+  "KUNCI_JOIN": "Sambas_Semparuk",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Subah",
+  "KUNCI_JOIN": "Sambas_Subah",
+  "TOTAL_KASUS": 28
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tangaran",
+  "KUNCI_JOIN": "Sambas_Tangaran",
+  "TOTAL_KASUS": 47
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tebas",
+  "KUNCI_JOIN": "Sambas_Tebas",
+  "TOTAL_KASUS": 75
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "Tekarang",
+  "KUNCI_JOIN": "Sambas_Tekarang",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sambas",
+  "KECAMATAN": "TelukKeramat",
+  "KUNCI_JOIN": "Sambas_TelukKeramat",
+  "TOTAL_KASUS": 102
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Balai",
+  "KUNCI_JOIN": "Sanggau_Balai"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Beduwai",
+  "KUNCI_JOIN": "Sanggau_Beduwai"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Bonti",
+  "KUNCI_JOIN": "Sanggau_Bonti"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Entikong",
+  "KUNCI_JOIN": "Sanggau_Entikong"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Jangkang",
+  "KUNCI_JOIN": "Sanggau_Jangkang"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kapuas",
+  "KUNCI_JOIN": "Sanggau_Kapuas"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Kembayan",
+  "KUNCI_JOIN": "Sanggau_Kembayan"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Meliau",
+  "KUNCI_JOIN": "Sanggau_Meliau"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Mukok",
+  "KUNCI_JOIN": "Sanggau_Mukok"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Noyan",
+  "KUNCI_JOIN": "Sanggau_Noyan"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Parindu",
+  "KUNCI_JOIN": "Sanggau_Parindu"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Sekayam",
+  "KUNCI_JOIN": "Sanggau_Sekayam"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHilir",
+  "KUNCI_JOIN": "Sanggau_TayanHilir"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "TayanHulu",
+  "KUNCI_JOIN": "Sanggau_TayanHulu"
+ },
+ {
+  "KABUPATEN": "Sanggau",
+  "KECAMATAN": "Toba",
+  "KUNCI_JOIN": "Sanggau_Toba"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "Belitang",
+  "KUNCI_JOIN": "Sekadau_Belitang"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "BelitangHilir",
+  "KUNCI_JOIN": "Sekadau_BelitangHilir"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "BelitangHulu",
+  "KUNCI_JOIN": "Sekadau_BelitangHulu"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "NangaMahap",
+  "KUNCI_JOIN": "Sekadau_NangaMahap"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "NangaTaman",
+  "KUNCI_JOIN": "Sekadau_NangaTaman"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "SekadauHilir",
+  "KUNCI_JOIN": "Sekadau_SekadauHilir"
+ },
+ {
+  "KABUPATEN": "Sekadau",
+  "KECAMATAN": "SekadauHulu",
+  "KUNCI_JOIN": "Sekadau_SekadauHulu"
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangBarat",
+  "KUNCI_JOIN": "Singkawang_SingkawangBarat",
+  "TOTAL_KASUS": 428
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangSelatan",
+  "KUNCI_JOIN": "Singkawang_SingkawangSelatan",
+  "TOTAL_KASUS": 51
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTengah",
+  "KUNCI_JOIN": "Singkawang_SingkawangTengah",
+  "TOTAL_KASUS": 105
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangTimur",
+  "KUNCI_JOIN": "Singkawang_SingkawangTimur",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Singkawang",
+  "KECAMATAN": "SingkawangUtara",
+  "KUNCI_JOIN": "Singkawang_SingkawangUtara",
+  "TOTAL_KASUS": 25
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Ambalau",
+  "KUNCI_JOIN": "Sintang_Ambalau",
+  "TOTAL_KASUS": 16
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "BinjaiHulu",
+  "KUNCI_JOIN": "Sintang_BinjaiHulu",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Dedai",
+  "KUNCI_JOIN": "Sintang_Dedai",
+  "TOTAL_KASUS": 12
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHilir",
+  "KUNCI_JOIN": "Sintang_KayanHilir",
+  "TOTAL_KASUS": 23
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KayanHulu",
+  "KUNCI_JOIN": "Sintang_KayanHulu",
+  "TOTAL_KASUS": 0
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KelamPermai",
+  "KUNCI_JOIN": "Sintang_KelamPermai",
+  "TOTAL_KASUS": 19
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHilir",
+  "KUNCI_JOIN": "Sintang_KetungauHilir",
+  "TOTAL_KASUS": 5
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauHulu",
+  "KUNCI_JOIN": "Sintang_KetungauHulu",
+  "TOTAL_KASUS": 20
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "KetungauTengah",
+  "KUNCI_JOIN": "Sintang_KetungauTengah",
+  "TOTAL_KASUS": 42
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sepauk",
+  "KUNCI_JOIN": "Sintang_Sepauk",
+  "TOTAL_KASUS": 34
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Serawai",
+  "KUNCI_JOIN": "Sintang_Serawai",
+  "TOTAL_KASUS": 27
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Sintang",
+  "KUNCI_JOIN": "Sintang_Sintang",
+  "TOTAL_KASUS": 337
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "SungaiTebelian",
+  "KUNCI_JOIN": "Sintang_SungaiTebelian",
+  "TOTAL_KASUS": 7
+ },
+ {
+  "KABUPATEN": "Sintang",
+  "KECAMATAN": "Tempunak",
+  "KUNCI_JOIN": "Sintang_Tempunak",
+  "TOTAL_KASUS": 36
+ }
+]
+}

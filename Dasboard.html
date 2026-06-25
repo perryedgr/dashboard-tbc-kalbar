@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar TB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+
+<link rel="stylesheet" href="Dasboard.CSS">
+</head>
+<body>
+
+<div class="appbar">
+  <div class="brand">
+    <div class="brand-mark">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 2L3 7v6c0 5 4 8.5 9 9 5-.5 9-4 9-9V7l-9-5z" stroke="#0B1426" stroke-width="1.6" stroke-linejoin="round"/>
+        <path d="M8.5 12.5l2.2 2.3L16 9.5" stroke="#0B1426" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+    <div class="brand-text">
+      <h1>Radar TB</h1>
+      <span>Kalimantan Barat</span>
+    </div>
+  </div>
+  <div class="nav-tabs">
+    <div class="nav-tab active" data-page="surveillance">Surveillance dashboard</div>
+    <div class="nav-tab" data-page="screening">Screening dashboard</div>
+  </div>
+  <div class="appbar-right">
+    <div class="status-pill"><span class="dot" id="netDot"></span><span id="netLabel">Online &middot; sinkron otomatis</span></div>
+  </div>
+</div>
+
+<div class="page active" id="page-surveillance">
+  <div class="page-head">
+    <div>
+      <h2></h2>
+      <p>Monitoring dan analisis penyebaran Tuberculosis</p>
+    </div>
+  </div>
+
+  <div class="summary-grid">
+    <div class="card stat-card">
+      <div class="stat-top">
+        <span class="stat-label">Total TB cases</span>
+        <div class="stat-icon" style="background:rgba(230,57,70,0.15); color:var(--red);">⚕</div>
+      </div>
+      <div class="stat-value" id="statTotalCases">0</div>
+      <div class="stat-trend trend-up">▲ Berdasarkan Data QGIS</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-top">
+        <span class="stat-label">Total hotspot areas</span>
+        <div class="stat-icon" style="background:rgba(247,127,0,0.15); color:var(--orange);">⬢</div>
+      </div>
+      <div class="stat-value" id="statHotspots">0</div>
+      <div class="stat-trend" style="color:var(--gray);">cluster High-High terdeteksi</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-top">
+        <span class="stat-label">Total screenings</span>
+        <div class="stat-icon" style="background:rgba(0,180,216,0.15); color:var(--primary-light);">▣</div>
+      </div>
+      <div class="stat-value" id="statScreenings">0</div>
+      <div class="stat-trend" style="color:var(--gray);">akumulasi 2020&ndash;2025</div>
+    </div>
+    <div class="card stat-card">
+      <div class="stat-top">
+        <span class="stat-label">TB positive rate</span>
+        <div class="stat-icon" style="background:rgba(46,204,113,0.15); color:var(--green);">%</div>
+      </div>
+      <div class="stat-value" id="statPositiveRate">0%</div>
+      <div class="stat-trend trend-down">▼ Estimasi</div>
+    </div>
+  </div>
+
+  <div class="main-grid">
+    <div class="card map-panel">
+      <div class="panel-head">
+        <div class="panel-title"><span class="pulse-dot"></span>Interactive LISA map</div>
+        <div class="filters">
+          <div class="select-wrap">
+            <select id="filterYear">
+              <option value="2025">2025</option>
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+              <option value="2021">2021</option>
+              <option value="2020">2020</option>
+            </select>
+          </div>
+          <div class="select-wrap">
+            <select id="filterRegion">
+              <option value="province">Province</option>
+              <option value="regency">Regency</option>
+              <option value="district">District</option>
+            </select>
+          </div>
+          <div class="mode-switch">
+            <div class="mode-btn active" data-mode="map">LISA map</div>
+            <div class="mode-btn" data-mode="stats">Statistics</div>
+          </div>
+        </div>
+      </div>
+
+      <div id="map"></div>
+
+      <div class="stats-table-wrap" id="statsTableWrap">
+        <table class="data-table">
+          <thead>
+            <tr><th>Wilayah</th><th>Total Kasus</th><th>Cluster</th><th>Growth</th></tr>
+          </thead>
+          <tbody id="statsTableBody"></tbody>
+        </table>
+      </div>
+
+      <div class="legend-row" id="mapLegend">
+        <div class="legend-item"><span class="legend-swatch" style="background:#E63946;"></span>High-High (hotspot)</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#2ECC71;"></span>Low-Low</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#F4D35E;"></span>High-Low</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#48CAE4;"></span>Low-High</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#ADB5BD;"></span>No data / Not Signif.</div>
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <div class="card">
+        <div class="panel-title" style="margin-bottom:6px;">Top hotspot ranking</div>
+        <p style="font-size:11.5px; color:var(--gray); margin-bottom:6px;">Diurutkan berdasarkan total kasus</p>
+        <div id="rankList"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="charts-grid">
+    <div class="card chart-card">
+      <h3>Tren TB tahunan (2020&ndash;2025)</h3>
+      <canvas id="lineChart"></canvas>
+    </div>
+    <div class="card chart-card">
+      <h3>Wilayah terdampak teratas</h3>
+      <canvas id="barChart"></canvas>
+    </div>
+  </div>
+</div>
+
+<div class="page" id="page-screening">
+  <div class="page-head">
+    <div>
+      <h2>Screening dashboard</h2>
+      <p>Screening individual pasien menggunakan CNN ResNet50</p>
+    </div>
+  </div>
+
+  <div class="screen-grid">
+    <div class="card" style="padding:20px;">
+      <div class="panel-title" style="margin-bottom:14px;">X-ray upload panel</div>
+      <div class="xray-wrap">
+        <div class="upload-zone" id="uploadZone">
+          <input type="file" id="xrayInput" accept="image/*" style="display:none;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 16V4M12 4l-4 4M12 4l4 4" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <p>Klik untuk upload gambar</p>
+          <span>Format JPG/PNG, maks. 10MB</span>
+        </div>
+        <img id="xrayPreview" alt="Preview X-ray">
+        <div class="scan-overlay" id="scanOverlay">
+          <div class="scan-line"></div>
+          <span>CNN ResNet50 menganalisis citra&hellip;</span>
+        </div>
+      </div>
+
+      <div class="result-card card" id="resultCard">
+        <div class="result-head">
+          <div>
+            <div style="font-size:11px; color:var(--gray); text-transform:uppercase; letter-spacing:0.5px;">Hasil klasifikasi CNN</div>
+            <div class="result-badge" id="resultBadge">&mdash;</div>
+          </div>
+          <div style="text-align:right;">
+            <div style="font-size:11px; color:var(--gray);">Confidence score</div>
+            <div style="font-family:var(--font-mono); font-size:18px; font-weight:600;" id="resultConfidenceText">0%</div>
+          </div>
+        </div>
+        <div class="confidence-bar-track">
+          <div class="confidence-bar-fill" id="confidenceBarFill" style="width:0%; background:var(--primary);"></div>
+        </div>
+        <p class="field-note">Hasil ini adalah alat bantu skrining awal, bukan diagnosis final. Konfirmasi oleh tenaga medis tetap diperlukan.</p>
+
+        <div class="storage-status">
+          <div class="storage-pill" id="storagePillLocal"><span>&#9679;</span> Saved locally (offline)</div>
+          <div class="storage-pill" id="storagePillSynced"><span>&#9679;</span> Synced to central database</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="padding:20px;">
+      <div class="panel-head" style="margin-bottom:14px;">
+        <div class="panel-title">Patient data form</div>
+        <div class="toggle-net" id="netToggle">
+          <span id="netToggleLabel">Simulasi koneksi: online</span>
+          <div class="toggle-track on" id="netToggleTrack"><div class="toggle-knob"></div></div>
+        </div>
+      </div>
+
+      <div class="form-grid">
+        <div class="field full">
+          <label>Nama pasien</label>
+          <input type="text" id="fName" placeholder="Nama lengkap pasien">
+        </div>
+        <div class="field">
+          <label>Umur</label>
+          <input type="number" id="fAge" placeholder="contoh: 34" min="0" max="120">
+        </div>
+        <div class="field">
+          <label>Jenis kelamin</label>
+          <select id="fGender">
+            <option value="L">Laki-laki</option>
+            <option value="P">Perempuan</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Kabupaten / kota</label>
+          <select id="fRegency"></select>
+        </div>
+        <div class="field">
+          <label>Kecamatan</label>
+          <input type="text" id="fDistrict" placeholder="Nama kecamatan">
+        </div>
+        <div class="field full">
+          <label>Tanggal pemeriksaan</label>
+          <input type="date" id="fDate">
+        </div>
+      </div>
+
+      <button class="btn-primary" id="runAnalysisBtn">Jalankan analisis CNN</button>
+      <p class="field-note" id="formHint">Lengkapi data pasien dan upload citra X-ray untuk memulai analisis.</p>
+    </div>
+  </div>
+</div>
+
+<script src="Dasboard.js"></script>
+</body>
+</html>
