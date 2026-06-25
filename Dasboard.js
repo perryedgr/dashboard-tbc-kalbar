@@ -236,7 +236,7 @@ async function loadCNNModel() {
     }
 
     // Memanggil file model.json 
-    cnnModel = await tf.loadGraphModel('model_tfjs_graph/model.json');
+    cnnModel = await tf.loadGraphModel('model.json');
     
     isModelLoading = false;
     if(runBtn) {
