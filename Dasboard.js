@@ -246,7 +246,7 @@ async function loadCNNModel() {
       runBtn.textContent = "Memuat Model AI (Mohon Tunggu)...";
     }
 
-    cnnModel = await tf.loadGraphModel('model_tfjs_graph/model.json');
+    cnnModel = await tf.loadGraphModel('model.json');
     
     isModelLoading = false;
     if(runBtn) {
