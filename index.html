@@ -26,7 +26,6 @@
     </div>
     <div class="brand-text">
       <h1>Radar TB</h1>
-      <span>Kalimantan Barat</span>
     </div>
   </div>
   <div class="nav-tabs">
@@ -41,7 +40,7 @@
 <div class="page active" id="page-surveillance">
   <div class="page-head">
     <div>
-      <h2></h2>
+      <h2>Dashboard Pemantauan</h2>
       <p>Monitoring dan analisis penyebaran Tuberculosis</p>
     </div>
   </div>
@@ -53,7 +52,6 @@
         <div class="stat-icon" style="background:rgba(230,57,70,0.15); color:var(--red);">⚕</div>
       </div>
       <div class="stat-value" id="statTotalCases">0</div>
-      <div class="stat-trend trend-up">▲ Berdasarkan Data Valid</div>
     </div>
     <div class="card stat-card">
       <div class="stat-top">
@@ -61,24 +59,8 @@
         <div class="stat-icon" style="background:rgba(247,127,0,0.15); color:var(--orange);">⬢</div>
       </div>
       <div class="stat-value" id="statHotspots">0</div>
-      <div class="stat-trend" style="color:var(--gray);">cluster High-High terdeteksi</div>
     </div>
-    <div class="card stat-card">
-      <div class="stat-top">
-        <span class="stat-label">Total screenings</span>
-        <div class="stat-icon" style="background:rgba(0,180,216,0.15); color:var(--primary-light);">▣</div>
-      </div>
-      <div class="stat-value" id="statScreenings">0</div>
-      <div class="stat-trend" style="color:var(--gray);">Akumulasi pada tahun terpilih</div>
-    </div>
-    <div class="card stat-card">
-      <div class="stat-top">
-        <span class="stat-label">TB positive rate</span>
-        <div class="stat-icon" style="background:rgba(46,204,113,0.15); color:var(--green);">%</div>
-      </div>
-      <div class="stat-value" id="statPositiveRate">0%</div>
-      <div class="stat-trend trend-down">▼ Dari total pasien diskrining</div>
-    </div>
+
   </div>
 
   <div class="main-grid">
@@ -87,13 +69,13 @@
         <div class="panel-title"><span class="pulse-dot"></span>Interactive LISA map</div>
         <div class="filters">
           <div class="select-wrap">
-            <select id="filterYear"></select>
-          </div>
-          <div class="select-wrap">
-            <select id="filterRegion">
-              <option value="province">Province</option>
-              <option value="regency">Regency</option>
-              <option value="district">District</option>
+            <select id="filterYear">
+              <option value="2025">2025</option>
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+              <option value="2021">2021</option>
+              <option value="2020">2020</option>
             </select>
           </div>
           <div class="mode-switch">
@@ -108,17 +90,21 @@
       <div class="stats-table-wrap" id="statsTableWrap">
         <table class="data-table">
           <thead>
-            <tr><th>Wilayah</th><th>Total Kasus</th><th>Cluster</th>></tr>
+            <tr><th>Wilayah</th><th>Total Kasus</th><th>Cluster</th></tr>
           </thead>
           <tbody id="statsTableBody"></tbody>
         </table>
       </div>
 
+      <div class="lisa-note" id="lisaNote" style="display:none;">
+        ⚠ Tahun 2021 dan 2024 tidak signifikan secara spasial. Visualisasi LISA tetap ditampilkan hanya sebagai referensi.
+      </div>
+
       <div class="legend-row" id="mapLegend">
         <div class="legend-item"><span class="legend-swatch" style="background:#E63946;"></span>High-High (hotspot)</div>
-        <div class="legend-item"><span class="legend-swatch" style="background:#2ECC71;"></span>Low-Low</div>
-        <div class="legend-item"><span class="legend-swatch" style="background:#F4D35E;"></span>High-Low</div>
-        <div class="legend-item"><span class="legend-swatch" style="background:#48CAE4;"></span>Low-High</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#0000FF;"></span>Low-Low</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#FF9999;"></span>High-Low</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#87CEFA;"></span>Low-High</div>
         <div class="legend-item"><span class="legend-swatch" style="background:#ADB5BD;"></span>No data / Not Signif.</div>
       </div>
     </div>
@@ -134,15 +120,16 @@
 
   <div class="charts-grid">
     <div class="card chart-card">
-      <h3>Tren Kasus TB Tahunan</h3>
+      <h3>Tren TB tahunan</h3>
       <canvas id="lineChart"></canvas>
     </div>
     <div class="card chart-card">
-      <h3>Wilayah Terdampak Teratas</h3>
+      <h3>Wilayah terdampak teratas</h3>
       <canvas id="barChart"></canvas>
     </div>
   </div>
 </div>
+
 
 <div class="page" id="page-screening">
   <div class="page-head">
@@ -153,6 +140,7 @@
   </div>
 
   <div class="screen-grid">
+
     <div class="card" style="padding:20px;">
       <div class="panel-title" style="margin-bottom:14px;">X-ray upload panel</div>
       <div class="xray-wrap">
@@ -184,21 +172,19 @@
           <div class="confidence-bar-fill" id="confidenceBarFill" style="width:0%; background:var(--primary);"></div>
         </div>
         <p class="field-note">Hasil ini adalah alat bantu skrining awal, bukan diagnosis final.</p>
-
-        <div class="storage-status">
-          <div class="storage-pill" id="storagePillLocal"><span>&#9679;</span> Saved locally (offline)</div>
-          <div class="storage-pill" id="storagePillSynced"><span>&#9679;</span> Synced to central database</div>
-        </div>
       </div>
     </div>
 
     <div class="card" style="padding:20px;">
       <div class="panel-head" style="margin-bottom:14px;">
         <div class="panel-title">Patient data form</div>
-        <div class="toggle-net" id="netToggle">
-          <span id="netToggleLabel">Simulasi koneksi: online</span>
-          <div class="toggle-track on" id="netToggleTrack"><div class="toggle-knob"></div></div>
-        </div>
+
+        <label class="toggle-net" id="toggleNetLabel">
+          <span>Simulasi koneksi: <span id="netModeText">online</span></span>
+          <div class="toggle-track on" id="toggleTrack">
+            <div class="toggle-knob"></div>
+          </div>
+        </label>
       </div>
 
       <div class="form-grid">
@@ -218,16 +204,41 @@
           </select>
         </div>
         <div class="field">
-          <label>Kabupaten / kota</label>
-          <select id="fRegency"></select>
+          <label>Kabupaten / Kota</label>
+          <select id="fKabupaten">
+            <option value="">Pilih Kabupaten/Kota</option>
+            <option value="Sambas">Sambas</option>
+            <option value="Bengkayang">Bengkayang</option>
+            <option value="Landak">Landak</option>
+            <option value="Mempawah">Mempawah</option>
+            <option value="Sanggau">Sanggau</option>
+            <option value="Ketapang">Ketapang</option>
+            <option value="Sintang">Sintang</option>
+            <option value="Kapuas Hulu">Kapuas Hulu</option>
+            <option value="Sekadau">Sekadau</option>
+            <option value="Melawi">Melawi</option>
+            <option value="Kayong Utara">Kayong Utara</option>
+            <option value="Kubu Raya">Kubu Raya</option>
+            <option value="Pontianak">Kota Pontianak</option>
+            <option value="Singkawang">Kota Singkawang</option>
+          </select>
         </div>
         <div class="field">
           <label>Kecamatan</label>
-          <input type="text" id="fDistrict" placeholder="Nama kecamatan">
+          <input type="text" id="fKecamatan" placeholder="Nama kecamatan">
         </div>
         <div class="field full">
           <label>Tanggal pemeriksaan</label>
-          <input type="date" id="fDate">
+          <input type="date" id="fTanggal" placeholder="dd/mm/yyyy">
+        </div>
+      </div>
+
+      <div class="storage-status">
+        <div class="storage-pill" id="pillLocal">
+          <span>💾</span> Tersimpan lokal
+        </div>
+        <div class="storage-pill" id="pillSynced">
+          <span>☁</span> Tersinkron server
         </div>
       </div>
 
